@@ -1,7 +1,4 @@
-# Food-Prices
-This repo contains food price analysis for Kenya from 2006 to 2024
-
-# Analysis of Food Prices in Kenya Using WFP Data
+# Analysis of Food Prices in Kenya.
 
 ## Introduction
 
